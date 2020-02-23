@@ -1,0 +1,28 @@
+
+Varibles can only contain;
+letters, numbers, underscors or '$' dollar signs
+But can't start with a number 
+or use reserve keywords
+
+Reserved key words
+https://www.w3schools.com/js/js_reserved.asp
+
+Try to make your names meaningful
+so other developers can understand what this is meant to represent.
+
+single line comment  //
+multiline comment    /*  */
+
+JavasScript Data Types
+Number   1,2,3,100,3.14
+String   'hello, world"
+Boolean  true / false
+Null     Explicitly set a variable with no value
+Undefine For variables that have not yet been defined
+Object   Complex data structures - Arrays, Dates, Literals etc.
+Symbol   (New edition) Used with objects
+
+A variable can hold any data type.
+We don't have to explicitly say what type of data it will store.
+We can override a variable with a different type with 'let'.
+That's why javascript is know as a loosly typed language, in contrast to a strongly type language like Ruby, Python. 
